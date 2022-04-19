@@ -1,6 +1,6 @@
 Machine Data Insights is focused on designing and implementing ML/AI solutions for extracting actionable insights from machine data using Splunk as a data collection and analytics platform. 
 
-You can learn more at <a href="https://machinedatainsights.com" target="_blank">https://machinedatainsights.com</a>
+You can learn more at <a href="https://machinedatainsights.com" target=_blank>https://machinedatainsights.com</a>
 
 
 
