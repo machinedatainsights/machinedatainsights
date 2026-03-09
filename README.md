@@ -1,4 +1,4 @@
-Machine Data Insights is focused on designing and implementing ML/AI solutions for extracting actionable insights from machine data using Splunk as a data collection and analytics platform. 
+Machine Data Insights is an independent security data engineering consultancy specializing in Splunk CIM normalization, AI-powered automation tooling, and data integrity solutions for enterprise security environments.
 
 You can learn more at <a href="https://machinedatainsights.com" target=_blank>https://machinedatainsights.com</a>
 
