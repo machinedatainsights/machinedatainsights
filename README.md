@@ -1,4 +1,4 @@
-<img src="turning-data-into-gold-2.png" alt="Machine Data Insights - Turning Data Into Gold(TM)"> Turning Data Into Gold™  
+<img src="turning-data-into-gold-2.png" alt="Machine Data Insights - Turning Data Into Gold(TM)"> There's Gold in That Data!®  
 <br>
 **Machine Data Insights** is an independent security data engineering consultancy specializing in Splunk CIM normalization, AI-powered automation tooling, and data integrity solutions for enterprise security and operational environments.  
 
